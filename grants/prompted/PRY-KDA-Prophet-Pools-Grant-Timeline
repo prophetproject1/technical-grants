@@ -1,0 +1,50 @@
+Prophet Pools on Kadena
+
+Prophet Pools are a flash yield pool system where you have more chances to win than anything out there. The concept is simple: you enter a pool with an amount of tokens which vary by pool, then wait until everyone joins. When everyone joins, random winners are determined and they will receive winnings plus their initial entry. With prophet pool the chances of winning are much higher: 40-80% depending on the risk level. Any time you don’t win, you will receive an NFT ticket to use to enter a “second chance pool” where you have a chance to win back some of your initial entry. We collect the fees from prophet pools (required by joining the pool) and use them to populate the potential winnings in second chance pools. Prophecy will have pools across many tokens, many blockchains, and many different risk appetites. We will build prophet pools on the Kadena blockchain to establish the partnership between the two projects and give our two communities an opportunity to benefit from both projects. 
+
+Proiposed deliverables 
+A prophet pool that requires KDA for entry on the Kadena blockchain 
+$KDA 
+$kETH
+A contract for NFTs that will act as tickets for second chance pool entry 
+A second chance pool that requires a KDA NFT (multi token) for entry 
+
+Proposed Timeline: 
+
+Week 1
+Backend developer learns Pact
+Backend developer starts writing the prophet pool contract on Pact 
+Week 2
+Backend developer learns Pact
+Backend developer starts writing the prophet pool contract on Pact
+Week 3
+Backend developer learns Pact
+Backend developer starts writing the prophet pool contract on Pact
+Week 4
+Backend developer learns Pact
+Backend developer starts writing the prophet pool contract on Pact
+Week 5
+Backend developer learns Pact
+Backend developer starts writing the second chance NFT contract on Pact
+Week 6
+Backend developer learns Pact
+Backend developer starts writing the second chance NFT contract on Pact
+Front end UI for Kadena prophet pools 
+Front-end work to connect to the KDA wallet (Torus, Zelcore?)
+Week 7
+Backend developer learns Pact
+Backend developer starts writing the second chance pool contract on Pact
+Front end UI for Kadena prophet pools 
+Front-end work to connect to the KDA wallet (Torus, Zelcore?)
+Week 8
+Audit the contracts from a third-party 
+Front end UI for Kadena prophet pools 
+Front-end work to connect to the KDA wallet (Torus, Zelcore?)
+Week 9
+Audit fixes
+Front end UI for Kadena prophet pools 
+Front-end work to connect to the KDA wallet (Torus, Zelcore?)
+Week 11
+Kadena prophet pools in Beta
+Week 12
+Kadena prophet pools in Beta 
